@@ -9,7 +9,6 @@ The solver evaluates many candidate cycles using a combination of **Nearest Neig
 
 - `tsp_solver.py` — main solver (Python)
 - `solution_<916006596>.txt` — Best cycle found for Graph A and Graph B
-- `report.pdf` — Written report (overview, flowchart, results)
 
 ---
 
